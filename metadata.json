@@ -1,0 +1,6 @@
+{
+  "name": "Punjab Maps Explorer - Panj Aab",
+  "description": "Interactive map and comprehensive district guide for all of Punjab, featuring both Indian Punjab (23 districts) and Pakistani Punjab (41 districts), historic rivers, doabs, and cultural landmarks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+body {
+  font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+}
+
+.font-gurmukhi {
+  font-family: 'Noto Sans Gurmukhi', sans-serif;
+}
+
+.font-shahmukhi {
+  font-family: 'Noto Sans Arabic', 'Noto Nastaliq Urdu', Tahoma, sans-serif;
+}
+
